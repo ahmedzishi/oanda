@@ -6,5 +6,12 @@ An algorithmic forex trading application with Nodejs, Javascript, Axios, and the
 ![image](https://github.com/ahmedzishi/oanda/assets/100880869/402457f1-febc-4e7b-9cd4-6fb2a28e65d6)
 
 
+```bash
+# install dependencies
+npm install
+
+# start application
+npm start
+```
 
 
